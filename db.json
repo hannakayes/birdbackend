@@ -9,7 +9,7 @@
       "habitat": "Fields, woodlands, hedgerows",
       "description": "The Common Pheasant is a large, colorful bird with bright plumage. Males have metallic green heads and long tails, while females are more subdued. They are ground-dwelling birds, often found foraging for seeds and insects. During breeding season, males perform elaborate courtship displays. Their call is a series of loud cackles and crowing. Common Pheasants are widely distributed across Europe and Asia. They are commonly hunted game birds.",
       "status": "Common",
-      "image": "common_pheasant.jpg",
+      "image": "https://www.allaboutbirds.org/guide/assets/photo/68754031-1280px.jpg",
       "sound": "common_pheasant_sound.mp3"
     },
     {
@@ -59,18 +59,6 @@
       "status": "Common",
       "image": "common_blackbird.jpg",
       "sound": "common_blackbird_sound.mp3"
-    },
-    {
-      "id": 6,
-      "name": "Eurasian Sparrowhawk",
-      "latin_name": "Accipiter nisus",
-      "order": "ACCIPITRIFORMES",
-      "family": "Accipitridae",
-      "habitat": "Woodlands, forests, parks",
-      "description": "The Eurasian Sparrowhawk is a small bird of prey with short, broad wings and a long tail. Males have blue-gray upperparts and orange-barred underparts, while females are brown with bold streaking. They hunt small birds and mammals by surprise attacks, often from concealed perches. During breeding season, males perform courtship displays with steep dives and fluttering flights. Eurasian Sparrowhawks are widespread across Europe and Asia.",
-      "status": "Common",
-      "image": "eurasian_sparrowhawk.jpg",
-      "sound": "eurasian_sparrowhawk_sound.mp3"
     },
     {
       "id": 7,
@@ -261,7 +249,7 @@
       "habitat": "Open woodlands, parks, gardens",
       "description": "The Eurasian Hoopoe is a distinctive bird with a long, curved bill, black and white wings, and a crest of feathers that it can raise into a 'crown'. It has pinkish-brown plumage and a barred tail. Eurasian Hoopoes feed on insects, probing the ground with their bills. They are known for their 'hoop-hoop' call and musical trill during courtship displays. Found across Europe and Asia, they prefer open habitats with short grass.",
       "status": "Common",
-      "image": "eurasian_hoopoe.jpg",
+      "image": "https://www.shanghaibirding.com/wp-content/uploads/2020/02/hoopoe-jiangsu-brelsford.jpg",
       "sound": "eurasian_hoopoe_sound.mp3"
     },
     {
@@ -321,7 +309,7 @@
       "habitat": "Urban areas, cliffs, forests",
       "description": "The Common Swift is a slender bird with long, curved wings and a short forked tail. It has dark brown plumage and a pale throat. Common Swifts are superb fliers, spending most of their lives in the air. They feed on flying insects caught on the wing. Common Swifts have a high-pitched screaming call and are known for their aerial acrobatics. Found across Europe and Asia, they migrate to Africa for the winter.",
       "status": "Common",
-      "image": "common_swift.jpg",
+      "image": "https://arasbaran.org/en/mi_news/show/1393/11/Big/511-551.jpg",
       "sound": "common_swift_sound.mp3"
     },
     {
@@ -409,30 +397,6 @@
       "sound": "northern_lapwing_sound.mp3"
     },
     {
-      "id": 35,
-      "name": "Eurasian Woodcock",
-      "latin_name": "Scolopax rusticola",
-      "order": "CHARADRIIFORMES",
-      "family": "Scolopacidae",
-      "habitat": "Woodlands, forests, wet areas",
-      "description": "The Eurasian Woodcock is a stocky wader with mottled brown plumage, large eyes set high on the head, and a long, straight bill. They are nocturnal and often difficult to spot during the day. Eurasian Woodcocks feed on invertebrates, primarily earthworms, found in damp soils. They are widespread across Europe and Asia, with migratory populations moving to milder areas in winter.",
-      "status": "Common",
-      "image": "eurasian_woodcock.jpg",
-      "sound": "eurasian_woodcock_sound.mp3"
-    },
-    {
-      "id": 36,
-      "name": "Common Snipe",
-      "latin_name": "Gallinago gallinago",
-      "order": "CHARADRIIFORMES",
-      "family": "Scolopacidae",
-      "habitat": "Wetlands, marshes, wet meadows",
-      "description": "The Common Snipe is a small, cryptically colored wader with a long, straight bill and distinctive flight pattern, characterized by zigzagging and erratic movements. They feed on insects, worms, and other invertebrates in muddy soils. Common Snipes are found across Europe, Asia, and North America, often migrating to warmer regions in winter.",
-      "status": "Common",
-      "image": "common_snipe.jpg",
-      "sound": "common_snipe_sound.mp3"
-    },
-    {
       "id": 37,
       "name": "Black-tailed Godwit",
       "latin_name": "Limosa limosa",
@@ -467,18 +431,6 @@
       "status": "Common",
       "image": "green_sandpiper.jpg",
       "sound": "green_sandpiper_sound.mp3"
-    },
-    {
-      "id": 40,
-      "name": "Common Sandpiper",
-      "latin_name": "Actitis hypoleucos",
-      "order": "CHARADRIIFORMES",
-      "family": "Scolopacidae",
-      "habitat": "Wetlands, riverbanks, lakeshores",
-      "description": "The Common Sandpiper is a small wader with brown upperparts, white underparts, and a distinctive white 'shoulder strap'. They have a bobbing motion when foraging and a characteristic fluttering flight with stiff wings. Common Sandpipers feed on insects, crustaceans, and other invertebrates. They breed in Europe and Asia and migrate to Africa and southern Asia in winter.",
-      "status": "Common",
-      "image": "common_sandpiper.jpg",
-      "sound": "common_sandpiper_sound.mp3"
     },
     {
       "id": 41,
@@ -901,30 +853,6 @@
       "sound": "grey_wagtail_sound.mp3"
     },
     {
-      "id": 76,
-      "name": "Northern Goshawk",
-      "latin_name": "Accipiter gentilis",
-      "order": "ACCIPITRIFORMES",
-      "family": "Accipitridae",
-      "habitat": "Forests, woodlands",
-      "description": "The Northern Goshawk is a large bird of prey with broad wings and a long tail. They are powerful hunters of birds and mammals, often hunting in dense forests.",
-      "status": "Common",
-      "image": "northern_goshawk.jpg",
-      "sound": "northern_goshawk_sound.mp3"
-    },
-    {
-      "id": 77,
-      "name": "Common Buzzard",
-      "latin_name": "Buteo buteo",
-      "order": "ACCIPITRIFORMES",
-      "family": "Accipitridae",
-      "habitat": "Woodlands, farmlands, grasslands",
-      "description": "The Common Buzzard is a medium-sized raptor with variable plumage, ranging from dark brown to much lighter variants. It soars on broad wings and is often seen perched on poles or trees, hunting for small mammals, birds, and reptiles.",
-      "status": "Common",
-      "image": "common_buzzard.jpg",
-      "sound": "common_buzzard_sound.mp3"
-    },
-    {
       "id": 78,
       "name": "Eurasian Hobby",
       "latin_name": "Falco subbuteo",
@@ -957,44 +885,8 @@
       "habitat": "Wetlands, lakes, rivers",
       "description": "The Eurasian Teal is a small duck with distinctive green and black speculum on the wings and a green patch on the head in males. It frequents freshwater wetlands and feeds on aquatic plants and invertebrates. It is known for its whistling call.",
       "status": "Common",
-      "image": "eurasian_teal.jpg",
+      "image": "https://www.allaboutbirds.org/guide/assets/photo/68754031-1280px.jpg",
       "sound": "eurasian_teal_sound.mp3"
-    },
-    {
-      "id": 81,
-      "name": "Northern Shoveler",
-      "latin_name": "Spatula clypeata",
-      "order": "ANSERIFORMES",
-      "family": "Anatidae",
-      "habitat": "Wetlands, marshes, lakes",
-      "description": "The Northern Shoveler is a medium-sized duck known for its distinctive large, spoon-shaped bill. Males have bright plumage with green heads, white breasts, and chestnut flanks. They feed by filtering water for invertebrates and seeds.",
-      "status": "Common",
-      "image": "northern_shoveler.jpg",
-      "sound": "northern_shoveler_sound.mp3"
-    },
-    {
-      "id": 82,
-      "name": "Common Goldeneye",
-      "latin_name": "Bucephala clangula",
-      "order": "ANSERIFORMES",
-      "family": "Anatidae",
-      "habitat": "Lakes, rivers, coastal waters",
-      "description": "The Common Goldeneye is a medium-sized diving duck with striking black and white plumage in males and a golden eye. It nests in tree cavities and dives to catch fish and invertebrates. It is known for its distinctive whistling wingbeats.",
-      "status": "Common",
-      "image": "common_goldeneye.jpg",
-      "sound": "common_goldeneye_sound.mp3"
-    },
-    {
-      "id": 83,
-      "name": "Red Kite",
-      "latin_name": "Milvus milvus",
-      "order": "ACCIPITRIFORMES",
-      "family": "Accipitridae",
-      "habitat": "Woodlands, farmlands",
-      "description": "The Red Kite is a large bird of prey with a reddish-brown body, forked tail, and distinctive white patches under the wings. It feeds on carrion and small animals and is known for its graceful, soaring flight. It has seen a resurgence in numbers due to conservation efforts.",
-      "status": "Common",
-      "image": "red_kite.jpg",
-      "sound": "red_kite_sound.mp3"
     },
     {
       "id": 84,
@@ -1081,30 +973,6 @@
       "sound": "little_grebe_sound.mp3"
     },
     {
-      "id": 91,
-      "name": "Common Eider",
-      "latin_name": "Somateria mollissima",
-      "order": "ANSERIFORMES",
-      "family": "Anatidae",
-      "habitat": "Coastal waters, islands",
-      "description": "The Common Eider is a large sea duck, recognizable by its bulky shape and black-and-white plumage in males. It feeds on crustaceans and mollusks, diving deep to catch its prey. Eiders are known for their soft down, which is harvested sustainably from nests.",
-      "status": "Common",
-      "image": "common_eider.jpg",
-      "sound": "common_eider_sound.mp3"
-    },
-    {
-      "id": 92,
-      "name": "Garganey",
-      "latin_name": "Spatula querquedula",
-      "order": "ANSERIFORMES",
-      "family": "Anatidae",
-      "habitat": "Freshwater wetlands, marshes",
-      "description": "The Garganey is a small dabbling duck, with males showing a distinctive white eyebrow stripe during the breeding season. It feeds on aquatic plants and invertebrates, often found in shallow marshes and flooded fields.",
-      "status": "Common",
-      "image": "garganey.jpg",
-      "sound": "garganey_sound.mp3"
-    },
-    {
       "id": 93,
       "name": "Red-necked Grebe",
       "latin_name": "Podiceps grisegena",
@@ -1115,18 +983,6 @@
       "status": "Common",
       "image": "red_necked_grebe.jpg",
       "sound": "red_necked_grebe_sound.mp3"
-    },
-    {
-      "id": 94,
-      "name": "Common Scoter",
-      "latin_name": "Melanitta nigra",
-      "order": "ANSERIFORMES",
-      "family": "Anatidae",
-      "habitat": "Coastal waters, large lakes",
-      "description": "The Common Scoter is a sea duck, with males showing an all-black plumage. It is often seen in large flocks on coastal waters, diving for mollusks and crustaceans. Known for its distinct whistling calls during courtship.",
-      "status": "Common",
-      "image": "common_scoter.jpg",
-      "sound": "common_scoter_sound.mp3"
     },
     {
       "id": 95,
@@ -1211,18 +1067,6 @@
       "status": "Common",
       "image": "great_grey_shrike.jpg",
       "sound": "great_grey_shrike_sound.mp3"
-    },
-    {
-      "id": 102,
-      "name": "European Honey Buzzard",
-      "latin_name": "Pernis apivorus",
-      "order": "ACCIPITRIFORMES",
-      "family": "Accipitridae",
-      "habitat": "Woodlands, forests",
-      "description": "The European Honey Buzzard is a medium-sized bird of prey with a long neck and small head, resembling a pigeon. It feeds mainly on the larvae and nests of wasps and bees. Known for its distinctive, slow, and buoyant flight.",
-      "status": "Common",
-      "image": "european_honey_buzzard.jpg",
-      "sound": "european_honey_buzzard_sound.mp3"
     },
     {
       "id": 103,
