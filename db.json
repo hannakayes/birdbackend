@@ -1518,9 +1518,15 @@
       "habitat": "Forests, parks, gardens",
       "description": "The song thrush is a small to medium-sized songbird known for its melodic and repetitive song, which it often sings from high perches in woodland areas. Native to Europe, Asia, and parts of North Africa, the song thrush is easily recognizable by its warm brown upperparts and creamy, speckled underparts. This bird is a skilled forager, frequently seen hopping on the ground in search of earthworms, snails, and insects. The song thrush is celebrated in literature and poetry for its enchanting song, which includes a series of varied and rich phrases repeated two to four times. Although its population has declined in some regions due to habitat loss and changes in agricultural practices, the song thrush remains a beloved symbol of the natural world’s musicality.",
       "image": "https://base-prod.rspb-prod.magnolia-platform.com/dam/jcr:1a297c86-da45-439e-9837-9402881ba1a0/626076455-Species-song-thrush-on-branch.jpg",
-      "family": ["Turdidae"],
-      "order": ["PASSERIFORMES"],
-      "status": ["Common"],
+      "family": [
+        "Turdidae"
+      ],
+      "order": [
+        "PASSERIFORMES"
+      ],
+      "status": [
+        "Common"
+      ],
       "id": 127,
       "sound": "https://xeno-canto.org/919203/download"
     },
