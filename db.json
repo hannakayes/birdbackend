@@ -117,7 +117,7 @@
       "habitat": "Woodlands, parks, gardens",
       "description": "The Eurasian Magpie is a striking black and white bird with a long tail and iridescent plumage. It is known for its intelligence and bold behavior. Eurasian Magpies are omnivorous, feeding on a wide range of food including insects, small mammals, eggs, and fruit. They are highly vocal, producing a variety of calls and mimicry. Found across Europe and Asia, they thrive in various habitats including urban areas.",
       "status": "Common",
-      "image": "eurasian_magpie.jpg",
+      "image": "https://base-prod.rspb-prod.magnolia-platform.com/dam/jcr:c330f41c-ffce-47f2-99eb-0401723f3c9c/1310378926-Species-Magpie-2-birds-sat-on-green-mossy-log-in-rain_1.jpg",
       "sound": "https://xeno-canto.org/919415/download"
     },
     {
@@ -129,7 +129,7 @@
       "habitat": "Deciduous and mixed woodlands",
       "description": "The Eurasian Nuthatch is a small bird with blue-gray upperparts, orange-buff underparts, and a black eyestripe. It has a short tail and strong feet for climbing tree trunks headfirst. Eurasian Nuthatches forage for insects and seeds, often caching food in bark crevices. They are known for their loud, repetitive calls and frequent visits to bird feeders. Found across Europe and Asia, they are resident birds and do not migrate.",
       "status": "Common",
-      "image": "eurasian_nuthatch.jpg",
+      "image": "https://www.brilliant-creation.org/fileadmin/naturephotos/5/winged/eurasian_nuthatch.jpg",
       "sound": "https://xeno-canto.org/916871/download"
     },
     {
@@ -141,7 +141,7 @@
       "habitat": "Woodlands, gardens, parks",
       "description": "The European Goldfinch is a small, colorful finch with a red face, black and white head markings, and yellow wing bars. It feeds primarily on seeds, especially from thistles and teasels. European Goldfinches are highly social, often seen in small flocks. They have a melodious twittering song and perform undulating flight displays during courtship. Found throughout Europe, they are common in gardens and urban areas.",
       "status": "Common",
-      "image": "european_goldfinch.jpg",
+      "image": "https://singing-wings-aviary.com/wp-content/uploads/2015/02/European-Goldfinch.jpg",
       "sound": "https://xeno-canto.org/919144/download"
     },
     {
@@ -153,7 +153,7 @@
       "habitat": "Woodlands, gardens, scrublands",
       "description": "The Common Chiffchaff is a small, plain greenish-brown warbler with pale underparts and a short bill. It feeds on insects, picking them from leaves and branches. Common Chiffchaffs have a distinctive repetitive song that sounds like 'chiff-chaff', often heard during spring and summer. They are migratory, wintering in southern Europe and Africa. Found across Europe, they prefer dense vegetation near water.",
       "status": "Common",
-      "image": "common_chiffchaff.jpg",
+      "image": "https://birdlifecyprus.org/wp-content/uploads/sites/3/2020/10/common-chiffchaff-by-albert-stoecker-1.jpg",
       "sound": "https://xeno-canto.org/916042/download"
     },
     {
@@ -165,7 +165,7 @@
       "habitat": "Woodlands, gardens, parks",
       "description": "The Eurasian Blackcap is a medium-sized warbler with gray-brown upperparts and a black cap on males (brown cap on females). It has a distinctive fluting song that varies in complexity. Eurasian Blackcaps feed on insects and berries, foraging in shrubs and trees. They are migratory, breeding in Europe and wintering in southern Europe and Africa. Common in a variety of habitats, they are often seen in gardens and parks.",
       "status": "Common",
-      "image": "eurasian_blackcap.jpg",
+      "image": "https://base-prod.rspb-prod.magnolia-platform.com/dam/jcr:df93c8be-d5a0-4d63-965e-090a4140992b/1254189010_Species_Blackcap_male%20and%20female%20blackcap%20on%20mossy%20log.jpg",
       "sound": "https://xeno-canto.org/919591/download"
     },
     {
@@ -177,7 +177,7 @@
       "habitat": "Coniferous and mixed woodlands",
       "description": "The Eurasian Treecreeper is a small bird with mottled brown plumage and a curved bill. It has a habit of climbing tree trunks spirally in search of insects and spiders. Eurasian Treecreepers have a thin, high-pitched song and a sharp 'seee' call. They are widespread across Europe and northern Asia, favoring mature forests with dense tree cover. They are non-migratory and maintain year-round territories.",
       "status": "Common",
-      "image": "eurasian_treecreeper.jpg",
+      "image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/107768711/1200",
       "sound": "https://xeno-canto.org/914069/download"
     },
     {
@@ -189,7 +189,7 @@
       "habitat": "Woodlands, parks, gardens",
       "description": "The European Greenfinch is a robust finch with a greenish-yellow body, yellow wing patches, and a thick bill. It feeds on seeds and buds, often visiting bird feeders. European Greenfinches have a melodious song with twittering phrases. They are social birds, often seen in flocks. Found across Europe, they are common in a variety of habitats including gardens and farmlands.",
       "status": "Common",
-      "image": "european_greenfinch.jpg",
+      "image": "https://c02.purpledshub.com/uploads/sites/62/2015/09/GettyImages-177592829-2fe6139.jpg?webp=1&w=1200",
       "sound": "https://xeno-canto.org/919603/download"
     },
     {
@@ -201,7 +201,7 @@
       "habitat": "Coniferous and mixed woodlands",
       "description": "The Eurasian Siskin is a small finch with a streaked yellow-green body, black cap, and forked tail. It feeds on seeds, especially from alder and birch trees. Eurasian Siskins have a twittering call and a buzzing flight sound. They are social birds, often forming mixed flocks with other finches. Found across Europe and Asia, they breed in coniferous forests and migrate southward in winter.",
       "status": "Common",
-      "image": "eurasian_siskin.jpg",
+      "image": "https://www.birdforum.net/gallery/eurasian-siskin.696709/full",
       "sound": "https://xeno-canto.org/919342/download"
     },
     {
@@ -225,7 +225,7 @@
       "habitat": "Woodlands, orchards, scrublands",
       "description": "The Eurasian Wryneck is a small, brownish bird with intricate barring and a cryptic pattern that helps it blend into tree bark. It has a long, barbed tongue adapted for extracting insects from crevices. Eurasian Wrynecks have a distinctive habit of twisting their necks when alarmed. They are migratory, breeding in Europe and wintering in sub-Saharan Africa. Found in open woodlands and orchards, they are shy and solitary birds.",
       "status": "Common",
-      "image": "eurasian_wryneck.jpg",
+      "image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/46343781/1800",
       "sound": "https://xeno-canto.org/919474/download"
     },
     {
@@ -237,7 +237,7 @@
       "habitat": "Woodlands, parks, gardens",
       "description": "The European Pied Flycatcher is a small, black and white bird with a bold pattern of contrasting colors. Males have a striking black-and-white plumage, while females are more subdued with gray-brown tones. They catch insects on the wing, often perching on exposed branches or fences. European Pied Flycatchers have a melodious song and a loud 'peet-peet' call. Found across Europe, they migrate to Africa for the winter.",
       "status": "Common",
-      "image": "european_pied_flycatcher.jpg",
+      "image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/585567291/1200",
       "sound": "https://xeno-canto.org/919313/download"
     },
     {
@@ -249,7 +249,7 @@
       "habitat": "Woodlands, scrublands, gardens",
       "description": "The Common Redstart is a small, colorful bird with slate-gray upperparts and bright orange underparts and tail. Males have a distinctive red tail, while females are duller with a grayish-brown tail. They forage for insects by hopping on the ground or catching them in mid-air. Common Redstarts have a warbling song and a sharp 'tseep' call. They breed in Europe and winter in sub-Saharan Africa.",
       "status": "Common",
-      "image": "common_redstart.jpg",
+      "image": "https://base-prod.rspb-prod.magnolia-platform.com/.imaging/focalpoint/_WIDTH_x_HEIGHT_/dam/jcr:634607a1-e0d2-466c-9aae-a14326b0be27/1708995958-Species-Redstart-MALE-Stood-on-branch-with-lichen.jpg",
       "sound": "https://xeno-canto.org/913449/download"
     },
     {
@@ -285,7 +285,7 @@
       "habitat": "Urban areas, farmlands, parks",
       "description": "The Eurasian Tree Sparrow is a small, brown and gray bird with a chestnut crown and black cheek spot. It is similar to the House Sparrow but smaller and with a distinctive call. Eurasian Tree Sparrows feed on seeds, insects, and crumbs in urban and rural environments. They have a chattering call and nest in colonies. Found across Europe and Asia, they are adaptable to various habitats but prefer areas with access to food and shelter.",
       "status": "Common",
-      "image": "eurasian_tree_sparrow.jpg",
+      "image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/305891261/1800",
       "sound": "https://xeno-canto.org/915230/download"
     },
     {
@@ -297,7 +297,7 @@
       "habitat": "Fields, grasslands, meadows",
       "description": "The Eurasian Skylark is a small, brown bird with streaked plumage and a crest that it raises during its distinctive 'sky dance' display. It has a melodious song that starts with a series of warbling notes followed by a fast trill. Eurasian Skylarks feed on seeds and insects, foraging on the ground in open habitats. Found across Europe and Asia, they are widespread in agricultural landscapes but declining in some regions due to habitat loss.",
       "status": "Declining",
-      "image": "eurasian_skylark.jpg",
+      "image": "https://base-prod.rspb-prod.magnolia-platform.com/dam/jcr:9d6a3d11-50ca-41b2-979b-64fb8a688040/1822985609-Species-Skylark-stood-on-mound-with-brown-grass.jpg",
       "sound": "https://xeno-canto.org/918137/download"
     },
     {
@@ -309,7 +309,7 @@
       "habitat": "Woodlands, orchards, parks",
       "description": "The Eurasian Golden Oriole is a striking bird with bright yellow plumage, black wings, and a black eye stripe on males (females are duller with greenish-yellow tones). They feed on insects and fruits, often high in trees. Eurasian Golden Orioles have a flute-like, melodious song that carries through woodland canopies. They are migratory, breeding in Europe and wintering in Africa. Found in mature forests and orchards, they are shy and elusive.",
       "status": "Common",
-      "image": "eurasian_golden_oriole.jpg",
+      "image": "https://www.worldbirdphotos.com/wp-content/uploads/2015/06/BSC12201a-Oriole-Eurasian-Golden-m-2-Mumbai-MH-India-Dec04-D100C.jpg",
       "sound": "https://xeno-canto.org/918607/download"
     },
     {
@@ -333,7 +333,7 @@
       "habitat": "Woodlands, parks, orchards",
       "description": "The European Green Woodpecker is a large woodpecker with bright green upperparts, yellow rump, and red crown in males (lacking in females). It has a distinctive laughing call and a 'yaffling' sound produced during territorial disputes. European Green Woodpeckers feed mainly on ants and larvae, probing into anthills with their long tongues. Found across Europe and parts of Asia, they are common in open woodlands and grassy areas.",
       "status": "Common",
-      "image": "european_green_woodpecker.jpg",
+      "image": "https://c02.purpledshub.com/uploads/sites/62/2015/07/GettyImages-977643688-5b6fa7f.jpg",
       "sound": "https://xeno-canto.org/919343/download"
     },
     {
@@ -345,7 +345,7 @@
       "habitat": "Urban areas, farmlands, parks",
       "description": "The Common Starling is a medium-sized bird with iridescent black plumage, speckled with white spots in winter. It has a short, squared tail and a long, pointed bill. Common Starlings are highly social, forming large flocks and performing aerial displays. They mimic other birds and environmental sounds. Common Starlings feed on insects, seeds, and fruits. Found across Europe and Asia, they are adaptable to urban and rural habitats.",
       "status": "Common",
-      "image": "common_starling.jpg",
+      "image": "https://images.squarespace-cdn.com/content/v1/5a6390338a02c77bf05da4ab/1567011561284-8K0RVD6W6VDWFATN6WYR/33721607850_f40c2ac436_o.jpg",
       "sound": "https://xeno-canto.org/479579/download"
     },
     {
@@ -357,7 +357,7 @@
       "habitat": "Open grasslands, heaths, farmlands",
       "description": "The Common Linnet is a small finch with a streaked brown back, pinkish breast, and a red forehead in males during the breeding season. Females are duller with less red on the head. Common Linnets feed on seeds and insects, foraging on the ground and in low shrubs. They have a twittering song and a sharp 'chit' call. Common Linnets breed across Europe and western Asia, often seen in open habitats with scattered bushes.",
       "status": "Common",
-      "image": "common_linnet.jpg",
+      "image": "https://base-prod.rspb-prod.magnolia-platform.com/dam/jcr:d9701295-3cf7-4998-b409-688e41942720/2103007921-Species-common-linnet-in-tree.jpg",
       "sound": "https://xeno-canto.org/919431/download"
     },
     {
@@ -525,7 +525,7 @@
       "habitat": "Open fields, farmlands, wetlands",
       "description": "The Barn Swallow is a small bird with iridescent blue upperparts, a reddish-brown throat, and a deeply forked tail. They are agile fliers, often seen skimming low over fields and water bodies. Barn Swallows feed on insects caught in flight. They are widespread across Europe, Asia, Africa, and the Americas.",
       "status": "Common",
-      "image": "barn_swallow.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B0%D1%81%D1%82%D0%BE%D1%87%D0%BA%D0%B0_%28Hirundo_rustica%29%2C_%D0%9C%D0%B5%D0%BB%D0%B8%D1%85%D0%BE%D0%B2%D0%BE.jpg/1513px-%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B0%D1%81%D1%82%D0%BE%D1%87%D0%BA%D0%B0_%28Hirundo_rustica%29%2C_%D0%9C%D0%B5%D0%BB%D0%B8%D1%85%D0%BE%D0%B2%D0%BE.jpg",
       "sound": "https://xeno-canto.org/919420/download"
     },
     {
@@ -537,7 +537,7 @@
       "habitat": "Urban areas, farmlands, gardens",
       "description": "The House Sparrow is a small, chunky bird with brown and gray plumage. Males have a distinctive black bib and white cheeks. They are highly adaptable and often found near human habitation. House Sparrows feed on seeds, grains, and insects. They are widespread across Europe, Asia, Africa, and the Americas.",
       "status": "Common",
-      "image": "house_sparrow.jpg",
+      "image": "https://scx2.b-cdn.net/gfx/news/hires/2018/housesparrow.jpg",
       "sound": "https://xeno-canto.org/918889/download"
     },
     {
@@ -549,7 +549,7 @@
       "habitat": "Woodlands, scrublands, gardens",
       "description": "The Willow Warbler is a small, delicate bird with greenish-brown upperparts and pale underparts. They have a distinctive, melodic song. Willow Warblers feed on insects and spiders. They are widespread across Europe and western Asia, migrating to sub-Saharan Africa for the winter.",
       "status": "Common",
-      "image": "willow_warbler.jpg",
+      "image": "https://static.wikia.nocookie.net/naturerules1/images/5/59/247076561.jpg/revision/latest?cb=20211104060916",
       "sound": "https://xeno-canto.org/919344/download"
     },
     {
@@ -561,7 +561,7 @@
       "habitat": "Woodlands, gardens, farmlands",
       "description": "The Common Chaffinch is a small finch with a blue-gray crown, rust-colored underparts, and greenish back. Males are brightly colored, while females are duller. Common Chaffinches feed on seeds and insects. They are widespread across Europe, Asia, and North Africa.",
       "status": "Common",
-      "image": "common_chaffinch.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbRoxQrCwB6AVrCPykgmJBF_C4E2odtdIiA&s",
       "sound": "https://xeno-canto.org/919401/download"
     },
     {
@@ -573,7 +573,7 @@
       "habitat": "Woodlands, gardens, parks",
       "description": "The Great Tit is a large, colorful tit with a black head, white cheeks, and yellow underparts. They are active and vocal birds, often seen in mixed flocks. Great Tits feed on insects, seeds, and nuts. They are widespread across Europe, Asia, and North Africa.",
       "status": "Common",
-      "image": "great_tit.jpg",
+      "image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/169357911/1800",
       "sound": "https://xeno-canto.org/918552/download"
     },
     {
@@ -597,7 +597,7 @@
       "habitat": "Scrublands, hedgerows, gardens",
       "description": "The Common Whitethroat is a small warbler with grayish-brown upperparts, white underparts, and a distinctive white throat. Males have a slight pinkish tinge to the chest. Common Whitethroats feed on insects and berries. They are widespread across Europe, Asia, and Africa, migrating to sub-Saharan Africa for the winter.",
       "status": "Common",
-      "image": "common_whitethroat.jpg",
+      "image": "https://birdwatchireland.ie/app/uploads/2019/01/Whitethroat-22-Shay-Connolly.jpg",
       "sound": "common_whitethroat_sound.mp3"
     },
     {
@@ -609,7 +609,7 @@
       "habitat": "Wetlands, reedbeds, marshes",
       "description": "The Eurasian Reed Bunting is a small bird with brown streaked plumage and a distinctive black head and white collar in males. They are often seen in wetland areas. Eurasian Reed Buntings feed on seeds and insects. They are widespread across Europe, Asia, and North Africa.",
       "status": "Common",
-      "image": "eurasian_reed_bunting.jpg",
+      "image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/256517181/1200",
       "sound": "https://xeno-canto.org/919568/download"
     },
     {
@@ -633,7 +633,7 @@
       "habitat": "Grasslands, wetlands, agricultural fields",
       "description": "The Western Yellow Wagtail is a small passerine with bright yellow underparts and an olive-green back. They are often seen foraging for insects in open fields and wetlands. Western Yellow Wagtails are migratory birds found across Europe, Asia, and Africa.",
       "status": "Common",
-      "image": "western_yellow_wagtail.jpg",
+      "image": "https://migratlane-telemetrie.fr/wp-content/uploads/2024/01/bergeronnette-printaniere_AA_new-scaled.jpg",
       "sound": "https://xeno-canto.org/919044/download"
     },
     {
@@ -645,7 +645,7 @@
       "habitat": "Open woodlands, heaths, grasslands",
       "description": "The Eurasian Tree Pipit is a small, streaky brown bird with a slender bill. They perform distinctive song flights, rising and parachuting back down to a perch. Eurasian Tree Pipits feed on insects and seeds and are found across Europe and western Asia.",
       "status": "Common",
-      "image": "eurasian_tree_pipit.jpg",
+      "image": "https://i0.wp.com/wildlifevagabond.com/wp-content/uploads/2024/02/MG_3291-Edit-Edit-3.jpg?ssl=1",
       "sound": "https://xeno-canto.org/917776/download"
     },
     {
@@ -657,7 +657,7 @@
       "habitat": "Birch forests, tundra, gardens",
       "description": "The Common Redpoll is a small finch with a red cap and black chin. Males often have a pinkish breast. They feed on seeds and are highly sociable, often seen in flocks. Common Redpolls are found across the Arctic and sub-Arctic regions of Europe, Asia, and North America.",
       "status": "Common",
-      "image": "common_redpoll.jpg",
+      "image": "https://www.allaboutbirds.org/guide/assets/photo/67278121-1900px.jpg?__hstc=6989805.2f3f33a24b44870ec4a577029c49e44b.1719792000102.1719792000103.1719792000104.1&__hssc=6989805.1.1719792000105&__hsfp=2521323127",
       "sound": "https://xeno-canto.org/915652/download"
     },
     {
@@ -669,7 +669,7 @@
       "habitat": "Rocky cliffs, gorges, urban areas",
       "description": "The Eurasian Crag Martin is a small, dusky swallow with a square tail and white tail spots. They are agile flyers, often seen around rocky cliffs and buildings. Eurasian Crag Martins feed on insects and are found in southern Europe, North Africa, and Asia.",
       "status": "Common",
-      "image": "eurasian_crag_martin.jpg",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/529202/large.jpg",
       "sound": "https://xeno-canto.org/904586/download"
     },
     {
@@ -681,7 +681,7 @@
       "habitat": "Open woodlands, gardens, orchards",
       "description": "The European Serin is a small, bright yellow finch with streaked upperparts and a short, forked tail. They have a fast, twittering song and are often seen in flocks. European Serins feed on seeds and are found across southern and central Europe.",
       "status": "Common",
-      "image": "european_serin.jpg",
+      "image": "https://www.birdguides-cdn.com/cdn/articles/3-European-Serin-male_Lesvos_07-04-06_Richard-Brooks-1.jpg",
       "sound": "https://xeno-canto.org/918125/download"
     },
     {
@@ -693,7 +693,7 @@
       "habitat": "Heaths, grasslands, coastal dunes",
       "description": "The European Stonechat is a small, plump bird with a black head, white collar, and orange-red breast. They are often seen perched on low shrubs and fence posts. European Stonechats feed on insects and berries. They are found across Europe and western Asia.",
       "status": "Common",
-      "image": "european_stonechat.jpg",
+      "image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/387157581/1800",
       "sound": "https://xeno-canto.org/919538/download"
     },
     {
@@ -705,7 +705,7 @@
       "habitat": "Reed beds, wetlands",
       "description": "The Bearded Reedling, also known as the Bearded Tit, is a small, long-tailed bird with distinctive black 'moustaches' on males. They are often seen clinging to reed stems, feeding on insects and seeds. Bearded Reedlings are found in Europe and Asia.",
       "status": "Common",
-      "image": "bearded_reedling.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Baardman_-_Panurus_biarmicus_%2815147085070%29.jpg",
       "sound": "https://xeno-canto.org/896648/download"
     },
     {
@@ -717,7 +717,7 @@
       "habitat": "Grasslands, wetlands, scrublands",
       "description": "The Common Grasshopper Warbler is a small, brown bird with streaked upperparts and pale underparts. They have a distinctive, reeling song that resembles a grasshopper. Common Grasshopper Warblers are found across Europe, Asia, and North Africa.",
       "status": "Common",
-      "image": "common_grasshopper_warbler.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Common_grasshopper_warbler_24.jpg",
       "sound": "https://xeno-canto.org/918117/download"
     },
     {
@@ -729,7 +729,7 @@
       "habitat": "Woodlands, forests, gardens",
       "description": "The Marsh Tit is a small, non-migratory bird with a distinctive black cap and bib. It feeds on insects and seeds and is known for its distinctive 'pitchoo' call.",
       "status": "Common",
-      "image": "marsh_tit.jpg",
+      "image": "https://community.rspb.org.uk/community/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-01-24-08/4527.Marsh-tit-_2800_Richard-Cousens_2900_.jpg",
       "sound": "https://xeno-canto.org/913917/download"
     },
     {
@@ -741,7 +741,7 @@
       "habitat": "Gardens, woodlands, hedgerows",
       "description": "The Dunnock is a small, brown and grey bird with a thin bill. It is often seen foraging on the ground for insects and seeds. It is also known as the Hedge Sparrow.",
       "status": "Common",
-      "image": "dunnock.jpg",
+      "image": "https://warehouse1.indicia.org.uk/upload/12/92/96/Dunnock4_GrobyPool_24Mar06.jpg",
       "sound": "https://xeno-canto.org/918702/download"
     },
     {
@@ -753,20 +753,46 @@
       "habitat": "Coniferous forests, woodlands, gardens",
       "description": "The Goldcrest is Europe's smallest bird, with a distinctive golden stripe on its head. It feeds on insects and spiders and has a high-pitched, rapid song.",
       "status": "Common",
-      "image": "goldcrest.jpg",
+      "image": "https://c02.purpledshub.com/uploads/sites/62/2023/04/GettyImages-1370675878-2ed224d.jpg",
       "sound": "https://xeno-canto.org/912958/download"
     },
     {
       "id": 64,
-      "name": "Firecrest",
-      "latin_name": "Regulus ignicapillus",
-      "order": "PASSERIFORMES",
-      "family": "Regulidae",
-      "habitat": "Coniferous forests, woodlands",
-      "description": "The Firecrest is similar to the Goldcrest but has a distinctive orange stripe on its head. It feeds on insects and spiders and has a rapid, high-pitched song.",
-      "status": "Common",
-      "image": "firecrest.jpg",
-      "sound": "firecrest_sound.mp3"
+      "name": "Griffon Vulture",
+      "latin_name": "Gyps fulvus",
+      "order": "ACCIPITRIFORMES",
+      "family": "Accipitridae",
+      "habitat": "Mountainous regions, cliffs, open countryside",
+      "description": "The Griffon Vulture is a large bird of prey with a wingspan up to 2.8 meters. It scavenges for carrion, primarily feeding on carcasses of large mammals. It has a bald head and neck, and its plumage is pale brown.",
+      "status": "Least Concern",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Gyps_fulvus_Ay%C3%B3dar.jpg",
+      "sound": "https://xeno-canto.org/423962/download",
+      "countries": [
+        "Spain",
+        "Portugal",
+        "France",
+        "Italy",
+        "Switzerland",
+        "Austria",
+        "Germany",
+        "Czech Republic",
+        "Slovakia",
+        "Hungary",
+        "Slovenia",
+        "Croatia",
+        "Bosnia and Herzegovina",
+        "Serbia",
+        "Montenegro",
+        "Albania",
+        "North Macedonia",
+        "Greece",
+        "Bulgaria",
+        "Romania",
+        "Moldova",
+        "Ukraine",
+        "Belarus",
+        "Russia"
+      ]
     },
     {
       "id": 65,
@@ -777,7 +803,7 @@
       "habitat": "Coniferous forests, woodlands, gardens",
       "description": "The Coal Tit is a small bird with a distinctive black cap and bib, and white cheeks. It feeds on insects and seeds and has a distinctive high-pitched call.",
       "status": "Common",
-      "image": "coal_tit.jpg",
+      "image": "https://base-prod.rspb-prod.magnolia-platform.com/dam/jcr:4fa62d40-56e2-431f-a0bd-b60a35ea268d/2163322231-Species-Coal-Tit-On-branch.jpg",
       "sound": "https://xeno-canto.org/918935/download"
     },
     {
@@ -789,7 +815,7 @@
       "habitat": "Woodlands, gardens, hedgerows",
       "description": "The Long-tailed Tit is a small bird with a distinctive long tail and black, white, and pink plumage. It feeds on insects and spiders and is often seen in flocks.",
       "status": "Common",
-      "image": "long_tailed_tit.jpg",
+      "image": "https://www.aejames.com/wp-content/uploads/2018/12/Long-tailed-Tit-bird-guide-%E2%80%93-Albert-E-James-and-Sons-1800x1200.jpg",
       "sound": "https://xeno-canto.org/917263/download"
     },
     {
@@ -801,7 +827,7 @@
       "habitat": "Open woodlands, scrublands, grasslands",
       "description": "The Red-backed Shrike is a small bird with a distinctive black mask and red-brown back. It is known for impaling its prey on thorns. It feeds on insects, small birds, and mammals.",
       "status": "Common",
-      "image": "red_backed_shrike.jpg",
+      "image": "https://life-bats-birds.lu/wp-content/uploads/2021/05/Lanius-collurio-scaled-e1621591588607.jpg",
       "sound": "https://xeno-canto.org/919341/download"
     },
     {
@@ -813,7 +839,7 @@
       "habitat": "Woodlands, forests, gardens",
       "description": "The Willow Tit is a small, non-migratory bird with a distinctive black cap and bib. It feeds on insects and seeds and has a distinctive 'chay-chay' call.",
       "status": "Common",
-      "image": "willow_tit.jpg",
+      "image": "https://images.squarespace-cdn.com/content/v1/5cdee7a86e30c30001c9637b/1616833328244-KKOGY90QQLMUYFQBJMDN/162254.jpg",
       "sound": "https://xeno-canto.org/914761/download"
     },
     {
@@ -825,7 +851,7 @@
       "habitat": "Woodlands, gardens, scrublands",
       "description": "The Lesser Redpoll is a small finch with streaked brown plumage and a distinctive red cap. It feeds on seeds and insects and has a rapid, twittering song.",
       "status": "Common",
-      "image": "lesser_redpoll.jpg",
+      "image": "https://www.birdguides-cdn.com/cdn/articles/4-AGAMI-Lesser-Redpoll-male_Slovakia_05-05-14_Ralph-Martin-93098.jpg",
       "sound": "https://xeno-canto.org/915309/download"
     },
     {
@@ -837,7 +863,7 @@
       "habitat": "Woodlands, gardens, parks",
       "description": "The Spotted Flycatcher is a small bird with grey-brown plumage and a distinctive habit of sallying out from perches to catch insects. It is migratory, breeding in Europe and western Asia and wintering in Africa.",
       "status": "Common",
-      "image": "spotted_flycatcher.jpg",
+      "image": "https://wildlife-photography.uk/wp-content/uploads/2023/06/spotted-flycatcher-scott-pollard.jpg",
       "sound": "https://xeno-canto.org/919069/download"
     },
     {
@@ -849,7 +875,7 @@
       "habitat": "Coniferous forests, woodlands",
       "description": "The Common Firecrest is similar to the Goldcrest but has a distinctive orange stripe on its head. It feeds on insects and spiders and has a rapid, high-pitched song.",
       "status": "Common",
-      "image": "common_firecrest.jpg",
+      "image": "http://voice.gardenbird.co.uk/wp-content/uploads/2017/11/Firecrest.jpg",
       "sound": "https://xeno-canto.org/919346/download"
     },
     {
@@ -861,7 +887,7 @@
       "habitat": "Urban areas, rocky areas, open woodlands",
       "description": "The Black Redstart is a small bird with dark grey plumage and a distinctive red tail. It feeds on insects and berries and has a rapid, twittering song.",
       "status": "Common",
-      "image": "black_redstart.jpg",
+      "image": "https://i0.wp.com/soundapproach.co.uk/wp-content/uploads/2020/11/pho-ochr-Texel-winterbird-28-01-2008-POP_DSC0105-scaled.jpg?fit=2560%2C1731&ssl=1",
       "sound": "https://xeno-canto.org/919332/download"
     },
     {
@@ -873,7 +899,7 @@
       "habitat": "Woodlands, gardens, parks",
       "description": "The Red-breasted Flycatcher is a small bird with grey-brown plumage and a distinctive red-orange throat. It is migratory, breeding in Europe and western Asia and wintering in South Asia.",
       "status": "Common",
-      "image": "red_breasted_flycatcher.jpg",
+      "image": "https://img.fotocommunity.com/zwergschnaepper-ficedula-parva-f4663ed2-ec02-464d-8363-7a2c01650830.jpg?height=1080",
       "sound": "https://xeno-canto.org/919086/download"
     },
     {
@@ -885,7 +911,7 @@
       "habitat": "Open areas, farmlands, wetlands",
       "description": "The White Wagtail is a small bird with a distinctive black and white plumage and a long, constantly wagging tail. It feeds on insects and is often seen near water.",
       "status": "Common",
-      "image": "white_wagtail.jpg",
+      "image": "https://plantura.garden/uk/wp-content/uploads/sites/2/2021/11/white-wagtail.jpg",
       "sound": "https://xeno-canto.org/918106/download"
     },
     {
@@ -897,7 +923,7 @@
       "habitat": "Streams, rivers, wetlands",
       "description": "The Grey Wagtail is a small bird with grey upperparts, yellow underparts, and a long, constantly wagging tail. It feeds on insects and is often seen near fast-flowing water.",
       "status": "Common",
-      "image": "grey_wagtail.jpg",
+      "image": "https://www.aejames.com/wp-content/uploads/2018/12/Grey-Wagtail-bird-guide-%E2%80%93-Albert-E-James-and-Sons-1800x1180.jpg",
       "sound": "https://xeno-canto.org/904381/download"
     },
     {
@@ -945,7 +971,7 @@
       "habitat": "Coastal areas, rivers, lakes",
       "description": "The Great Cormorant is a large black waterbird with a long neck and powerful bill. It dives underwater to catch fish and is often seen drying its wings in the sun. It nests in colonies on cliffs or in trees near water.",
       "status": "Common",
-      "image": "great_cormorant.jpg",
+      "image": "https://www.bto.org/sites/default/files/styles/content_page_-_featured_image/public/publications-individual/2020-b032-john-harding-7500.jpg?itok=EDlJE7gc",
       "sound": "https://xeno-canto.org/917938/download"
     },
     {
@@ -1017,7 +1043,7 @@
       "habitat": "Open fields, rocky areas",
       "description": "The Northern Wheatear is a small, ground-dwelling bird with a distinctive white rump and tail. Males have a black eye mask and grey back, while females are browner. It feeds on insects and migrates long distances between breeding and wintering grounds.",
       "status": "Common",
-      "image": "northern_wheatear.jpg",
+      "image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/254024051/1800",
       "sound": "https://xeno-canto.org/913709/download"
     },
     {
@@ -1065,7 +1091,7 @@
       "habitat": "Wetlands, rivers, lakes",
       "description": "The Great Egret is a large, elegant white heron with a long, yellow bill and black legs. It wades through shallow water to catch fish, frogs, and insects. It nests in colonies, often with other herons, in trees near water.",
       "status": "Common",
-      "image": "great_egret.jpg",
+      "image": "https://ct.audubon.org/sites/default/files/styles/bean_wysiwyg_full_width/public/media-netx/19563/APA-2017_Great%20Egret_A1_3152_2_Gregory_Seitz_KK.jpg?itok=q5ZFKxWx",
       "sound": "https://xeno-canto.org/909311/download"
     },
     {
@@ -1077,7 +1103,7 @@
       "habitat": "Lakes, ponds, slow rivers",
       "description": "The Little Grebe is a small, brown diving bird with a distinctive fluffy rear end. It is often seen on still or slow-moving water, where it dives for small fish, insects, and other invertebrates. Known for its trilling calls during the breeding season.",
       "status": "Common",
-      "image": "little_grebe.jpg",
+      "image": "https://singaporebirds.com/wp-content/uploads/2016/01/little-grebe-fy1x9258-103eos1d-121124.jpg",
       "sound": "https://xeno-canto.org/919592/download"
     },
     {
@@ -1113,7 +1139,7 @@
       "habitat": "Lakes, ponds, coastal waters",
       "description": "The Red-necked Grebe is a medium-sized grebe with a distinctive red neck and white cheeks during breeding season. It dives for fish and aquatic invertebrates, and builds floating nests in reeds.",
       "status": "Common",
-      "image": "red_necked_grebe.jpg",
+      "image": "https://base-prod.rspb-prod.magnolia-platform.com/dam/jcr:dd9879ce-d0d2-4880-867f-8e6dfe6fb633/1974500180-Species-Red-Necked-Grebe-Pair-on-water.jpg",
       "sound": "https://xeno-canto.org/858602/download"
     },
     {
@@ -1161,7 +1187,7 @@
       "habitat": "Reedbeds, wetlands",
       "description": "The Eurasian Bittern is a secretive heron with mottled brown plumage, perfect for blending into its reedbed habitat. It is known for its booming call, which can be heard during the breeding season. It feeds mainly on fish and amphibians.",
       "status": "Common",
-      "image": "eurasian_bittern.jpg",
+      "image": "https://www.birdguides.com/cdn/gallery/birds/AF6I8004bitternlr.jpg",
       "sound": "https://xeno-canto.org/918746/download"
     },
     {
@@ -1173,7 +1199,7 @@
       "habitat": "Wetlands, reedbeds",
       "description": "The Purple Heron is a large, slender bird with a striking purple and chestnut plumage. It is often seen stalking through reedbeds in search of fish, frogs, and insects. Known for its slow, deliberate movements and long, sinuous neck.",
       "status": "Common",
-      "image": "purple_heron.jpg",
+      "image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/395242801/1200",
       "sound": "https://xeno-canto.org/919192/download"
     },
     {
@@ -1185,7 +1211,7 @@
       "habitat": "Lakes, marshes, coastal waters",
       "description": "The Great White Pelican is a large water bird with a distinctive long bill and a large throat pouch. It is often seen fishing in groups, using cooperative hunting techniques to herd fish. Known for its graceful flight and large breeding colonies.",
       "status": "Common",
-      "image": "great_white_pelican.jpg",
+      "image": "https://flightforsurvival.org/wp-content/uploads/2020/11/Great-White-Pelican-Pelecanus-onocrotalus-Vilda_86782_-Yves_Adams_-scaled.jpg",
       "sound": "https://xeno-canto.org/331138/download"
     },
     {
@@ -1209,7 +1235,7 @@
       "habitat": "Open woodlands, scrublands",
       "description": "The Great Grey Shrike is a medium-sized passerine bird with a distinctive black mask and grey plumage. It is known for its habit of impaling prey, such as insects and small birds, on thorns or barbed wire. It uses elevated perches to hunt.",
       "status": "Common",
-      "image": "great_grey_shrike.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lanius_excubitor%2C_Chilham%2C_Kent_1.jpg/1200px-Lanius_excubitor%2C_Chilham%2C_Kent_1.jpg",
       "sound": "https://xeno-canto.org/912741/download"
     },
     {
@@ -1305,7 +1331,7 @@
       "habitat": "Deciduous forests, woodlands",
       "description": "The Wood Warbler is a small, greenish-yellow bird with a distinctive, trilling song. It is found in mature deciduous forests, where it feeds on insects and spiders. Known for its rapid, fluttering flight and characteristic tail movements.",
       "status": "Common",
-      "image": "wood_warbler.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF4RQEnbbsDv8MUHWenjT-rMARc5Amq7T6Og&s",
       "sound": "https://xeno-canto.org/919337/download"
     },
     {
@@ -1317,7 +1343,7 @@
       "habitat": "Wetlands, reedbeds, riverbanks",
       "description": "The Eurasian Penduline Tit is a small bird with a distinctive black mask and brownish-grey plumage. It is known for its intricate, hanging nests woven from plant fibers. It feeds on insects, spiders, and seeds, often seen in wetland habitats.",
       "status": "Common",
-      "image": "eurasian_penduline_tit.jpg",
+      "image": "https://www.birdforum.net/gallery/eurasian-penduline-tit.700772/full",
       "sound": "https://xeno-canto.org/915842/download"
     },
     {
@@ -1353,7 +1379,7 @@
       "habitat": "Reedbeds and wetlands",
       "description": "The Great Reed Warbler is a large, robust warbler with a loud, harsh song. It is found in reedbeds and wetland areas, where it feeds on insects and other small invertebrates. Known for its aggressive territorial behavior during the breeding season.",
       "status": "Common",
-      "image": "great_reed_warbler.jpg",
+      "image": "https://cff2.earth.com/uploads/2016/10/27101925/bird-great-reed-warbler_1big_stock.jpg",
       "sound": "https://xeno-canto.org/919039/download"
     },
     {
@@ -1365,7 +1391,7 @@
       "habitat": "Coastal cliffs and open ocean",
       "description": "The Northern Fulmar is a seabird with a stocky body and stiff-winged flight. It is found on coastal cliffs and over the open ocean, where it feeds on fish, squid, and other marine organisms. Known for its tube-shaped nostrils and ability to spit stomach oil as a defense mechanism.",
       "status": "Common",
-      "image": "northern_fulmar.jpg",
+      "image": "https://cdn.britannica.com/75/115375-050-241F3BDA/fulmar-petrel.jpg",
       "sound": "https://xeno-canto.org/916600/download"
     },
     {
@@ -1377,7 +1403,7 @@
       "habitat": "Deciduous woodlands and thickets",
       "description": "The Common Nightingale is a small, plain-looking bird known for its powerful and beautiful song. It is found in deciduous woodlands and thickets, where it feeds on insects and other small invertebrates.",
       "status": "Common",
-      "image": "common_nightingale.jpg",
+      "image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/205045621/1200/1800",
       "sound": "https://xeno-canto.org/918124/download"
     },
     {
@@ -1389,7 +1415,7 @@
       "habitat": "Mature forests",
       "description": "The Black Woodpecker is a large woodpecker with a black body and a red cap. It is found in mature forests, where it feeds on insects and larvae found in decaying wood. Known for its distinctive drumming on trees.",
       "status": "Common",
-      "image": "black_woodpecker.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRKf6SOoUMrTKFa5ok0zH_nGIwIJbvJYpEuA&s",
       "sound": "https://xeno-canto.org/911632/download"
     },
     {
@@ -1401,7 +1427,7 @@
       "habitat": "Grasslands and open country",
       "description": "The Short-eared Owl is a medium-sized owl with a round head and short ear tufts. It is found in grasslands and open country, where it hunts for small mammals and birds. Known for its buoyant, moth-like flight.",
       "status": "Common",
-      "image": "short_eared_owl.jpg",
+      "image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/297400191/1800",
       "sound": "https://xeno-canto.org/911730/download"
     },
     {
@@ -1425,7 +1451,7 @@
       "habitat": "Deciduous forests and woodlands",
       "description": "The Lesser Spotted Woodpecker is a small woodpecker with a distinctive black-and-white plumage and a red cap on males. It is found in deciduous forests and woodlands, where it feeds on insects and larvae found in dead wood.",
       "status": "Common",
-      "image": "lesser_spotted_woodpecker.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIOoxBfXEFi2Y7HALlixCXh-uEJO5yygWHeQ&s",
       "sound": "https://xeno-canto.org/902803/download"
     },
     {
@@ -1437,7 +1463,7 @@
       "habitat": "Deciduous forests and orchards",
       "description": "The Hawfinch is a large finch with a powerful bill and a distinctive, chunky appearance. It is found in deciduous forests and orchards, where it feeds on seeds, nuts, and fruit. Known for its strong, conical bill used to crack open hard seeds.",
       "status": "Common",
-      "image": "hawfinch.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Coccothraustes_coccothraustes_%D0%BA%D0%BE%D1%81%D1%82%D0%BE%D0%B3%D1%80%D0%B8%D0%B7.jpg/1599px-Coccothraustes_coccothraustes_%D0%BA%D0%BE%D1%81%D1%82%D0%BE%D0%B3%D1%80%D0%B8%D0%B7.jpg?20200710054828",
       "sound": "https://xeno-canto.org/914609/download"
     },
     {
@@ -1449,7 +1475,7 @@
       "habitat": "Tundra and open grasslands",
       "description": "The Red-throated Pipit is a small, slender bird with a distinctive red throat during the breeding season. It is found in tundra and open grasslands, where it feeds on insects and seeds. Known for its high-pitched, trilling call.",
       "status": "Common",
-      "image": "red_throated_pipit.jpg",
+      "image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/462474471/1200",
       "sound": "https://xeno-canto.org/918989/download"
     },
     {
@@ -1461,7 +1487,7 @@
       "habitat": "Open countryside and farmlands",
       "description": "The Little Owl is a small owl with a stocky body and a distinctive, expressive face. It is found in open countryside and farmlands, where it hunts for small mammals, birds, and insects. Known for its distinctive 'kiew' call.",
       "status": "Common",
-      "image": "little_owl.jpg",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/238739562/original.jpg",
       "sound": "https://xeno-canto.org/702732/download"
     },
     {
@@ -1473,7 +1499,7 @@
       "habitat": "Wetlands and scrubby areas",
       "description": "The Bluethroat is a small bird with a striking blue throat and a reddish-brown tail. It is found in wetlands and scrubby areas, where it feeds on insects and other small invertebrates. Known for its rich, varied song.",
       "status": "Common",
-      "image": "bluethroat.jpg",
+      "image": "https://jungle.world/sites/default/files/styles/article_wide/public/2018-06/Blaukelch.jpg?itok=87dYxSJW",
       "sound": "https://xeno-canto.org/919596/download"
     },
     {
@@ -1485,7 +1511,7 @@
       "habitat": "Farmlands and open countryside",
       "description": "The Yellowhammer is a small bird with a bright yellow head and underparts and brown streaked upperparts. It is found in farmlands and open countryside, where it feeds on seeds and insects. Known for its distinctive, repetitive song.",
       "status": "Common",
-      "image": "yellowhammer.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Goldammer_Emberiza_citrinella_%28cropped%2C_mirrored_and_retouched%29.jpg",
       "sound": "https://xeno-canto.org/919282/download"
     },
     {
@@ -1509,7 +1535,7 @@
       "habitat": "Hedgerows and scrublands",
       "description": "The Common Whitethroat is a medium-sized warbler with a grey head, white throat, and brownish upperparts. It is found in hedgerows and scrublands, where it feeds on insects and berries. Known for its scratchy, musical song.",
       "status": "Common",
-      "image": "common_whitethroat.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Common_Whitethroat.jpg/1200px-Common_Whitethroat.jpg",
       "sound": "https://xeno-canto.org/917195/download"
     },
     {
