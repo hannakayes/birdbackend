@@ -6053,6 +6053,47 @@
         "Kazakhstan",
         "Russia"
       ]
+    },
+    {
+      "name": "Mistle Thrush",
+      "latin_name": "Turdus viscivorus",
+      "habitat": "Open woodlands, parks, gardens, and farmland with trees.",
+      "description": "The Mistle Thrush is a large member of the thrush family. It is found in Europe and across the Palearctic to Siberia and Central Asia. It is known for its loud, melodic song and is often associated with mistletoe, which it spreads by eating the berries and dispersing the seeds.",
+      "image": "https://base-prod.rspb-prod.magnolia-platform.com/dam/jcr:e49e5cb7-129c-46be-9ffd-f81306f76a52/558282808-Species-Mistle-Thrush-stood-on-log.jpg",
+      "family": "Turdidae",
+      "order": "PASSERIFORMES",
+      "status": "Common",
+      "id": 137,
+      "sound": "https://xeno-canto.org/911987/download",
+      "countries": [
+        "Spain",
+        "Portugal",
+        "France",
+        "Italy",
+        "Morocco",
+        "Algeria",
+        "Turkey",
+        "Kazakhstan",
+        "Russia",
+        "United Kingdom",
+        "Germany",
+        "Sweden",
+        "Norway",
+        "Finland",
+        "Denmark",
+        "Austria",
+        "Switzerland",
+        "Czech Republic",
+        "Slovakia",
+        "Poland",
+        "Ukraine",
+        "Belarus",
+        "Lithuania",
+        "Latvia",
+        "Estonia",
+        "Georgia",
+        "Armenia"
+      ]
     }
   ]
 }
