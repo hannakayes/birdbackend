@@ -5764,9 +5764,15 @@
       "habitat": "Forests, parks, gardens",
       "description": "The song thrush is a small to medium-sized songbird known for its melodic and repetitive song, which it often sings from high perches in woodland areas. Native to Europe, Asia, and parts of North Africa, the song thrush is easily recognizable by its warm brown upperparts and creamy, speckled underparts. This bird is a skilled forager, frequently seen hopping on the ground in search of earthworms, snails, and insects. The song thrush is celebrated in literature and poetry for its enchanting song, which includes a series of varied and rich phrases repeated two to four times. Although its population has declined in some regions due to habitat loss and changes in agricultural practices, the song thrush remains a beloved symbol of the natural world’s musicality.",
       "image": "https://base-prod.rspb-prod.magnolia-platform.com/dam/jcr:1a297c86-da45-439e-9837-9402881ba1a0/626076455-Species-song-thrush-on-branch.jpg",
-      "family": ["Turdidae"],
-      "order": ["PASSERIFORMES"],
-      "status": ["Common"],
+      "family": [
+        "Turdidae"
+      ],
+      "order": [
+        "PASSERIFORMES"
+      ],
+      "status": [
+        "Common"
+      ],
       "id": 127,
       "sound": "https://xeno-canto.org/919203/download",
       "countries": [
@@ -5815,10 +5821,10 @@
       "latin_name": "Gypaetus barbatus",
       "habitat": "Mountainous regions",
       "description": "The bearded vulture, scientifically known as Gypaetus barbatus, is a distinctive bird of prey found in mountainous regions of Europe, Asia, and Africa. Its most striking feature is its vivid red-orange feathered face, contrasting sharply with its black plumage. This vulture is renowned for its unique feeding habits, which include dropping bones from heights to access marrow, hence its nickname \"bone-eating vulture.\" It plays a crucial role in its ecosystem by consuming carrion and helping to clean up the environment. The bearded vulture is culturally significant in many regions and is considered a symbol of wilderness and rugged landscapes.",
-      "image": "https://res.cloudinary.com/roundglass/image/upload/w_1200,h_628,c_fill/q_auto:best,f_auto/v1577106807/roundglass/sustain/Bearded-Vulture_Jan-van-Biljon_Shutterstock-4_ae9qra.jpg",
+      "image": "https://www.thetimes.com/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F4ac42aa6-0b2c-11ec-9503-f24d9e0411ae.jpg?crop=3016%2C3770%2C1319%2C0",
       "family": "Accipitridae",
       "order": "ACCIPITRIFORMES",
-      "status": "Vulnerable",
+      "status": "vulnerable",
       "id": 128,
       "sound": "https://xeno-canto.org/474567/download",
       "countries": [
