@@ -6101,7 +6101,7 @@
       "latin_name": "Corvus monedula",
       "order": "PASSERIFORMES",
       "family": "Corvidae",
-      "habitat": ["Woodlands", "Farmlands", "Urban areas"],
+      "habitat": "Woodlands, farmlands, urban areas",
       "description": "The Eurasian Jackdaw is a small, dark corvid with a distinctive grey nape and pale eyes. Highly social and intelligent, jackdaws often form large flocks and are known for their problem-solving abilities. They are omnivorous, feeding on insects, seeds, fruits, and small vertebrates. Jackdaws are vocal and often communicate with a variety of calls. They are widespread across Europe and western Asia.",
       "status": "Common",
       "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/189714380/large.jpg",
@@ -6322,6 +6322,45 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Corvus_splendens_perched_Dhrangadhra.jpg",
       "sound": "https://xeno-canto.org/893799/download",
       "countries": ["Spain", "Portugal"]
+    },
+    {
+      "id": 151,
+      "name": "Wallcreeper",
+      "latin_name": "Tichodroma muraria",
+      "order": "PASSERIFORMES",
+      "family": "Tichodromidae",
+      "habitat": "Cliffs, mountainous regions",
+      "description": "The Wallcreeper is a striking bird with grey plumage, crimson wings, and a distinctive butterfly-like flight. It is often found on steep rock faces where it feeds on insects and spiders. Known for its elusive behavior, the Wallcreeper is found in mountainous regions of southern Europe and Asia.",
+      "status": "Uncommon",
+      "image": "https://wildlife-media.at/bild/44494/mauerlaeufer.jpg",
+      "sound": "https://xeno-canto.org/573620/download",
+      "countries": ["France", "Spain", "Italy", "Switzerland", "Austria"]
+    },
+    {
+      "id": 152,
+      "name": "Short-toed Treecreeper",
+      "latin_name": "Certhia brachydactyla",
+      "order": "PASSERIFORMES",
+      "family": "Certhiidae",
+      "habitat": "Woodlands, parks, gardens",
+      "description": "The Short-toed Treecreeper is a small bird with brown streaked plumage and a white belly. It is known for its behavior of creeping up tree trunks in search of insects and spiders. It is distinguished from other treecreepers by its slightly shorter hind claw and different song. Found in woodlands and parks across much of Europe and North Africa.",
+      "status": "Common",
+      "image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/107768711/1800",
+      "sound": "https://xeno-canto.org/917422/download",
+      "countries": [
+        "United Kingdom",
+        "France",
+        "Germany",
+        "Spain",
+        "Italy",
+        "Portugal",
+        "Belgium",
+        "Netherlands",
+        "Luxembourg",
+        "Denmark",
+        "Switzerland",
+        "Austria"
+      ]
     }
   ]
 }
