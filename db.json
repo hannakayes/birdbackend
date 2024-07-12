@@ -6101,7 +6101,7 @@
       "latin_name": "Corvus monedula",
       "order": "PASSERIFORMES",
       "family": "Corvidae",
-      "habitat": "Woodlands, farmlands, urban areas",
+      "habitat": ["Woodlands", "Farmlands", "Urban areas"],
       "description": "The Eurasian Jackdaw is a small, dark corvid with a distinctive grey nape and pale eyes. Highly social and intelligent, jackdaws often form large flocks and are known for their problem-solving abilities. They are omnivorous, feeding on insects, seeds, fruits, and small vertebrates. Jackdaws are vocal and often communicate with a variety of calls. They are widespread across Europe and western Asia.",
       "status": "Common",
       "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/189714380/large.jpg",
