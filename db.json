@@ -562,7 +562,7 @@
       "habitat": "Coniferous and mixed woodlands",
       "description": "The Eurasian Treecreeper is a small bird with mottled brown plumage and a curved bill. It has a habit of climbing tree trunks spirally in search of insects and spiders. Eurasian Treecreepers have a thin, high-pitched song and a sharp 'seee' call. They are widespread across Europe and northern Asia, favoring mature forests with dense tree cover. They are non-migratory and maintain year-round territories.",
       "status": "Common",
-      "image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/107768711/1200",
+      "image": "https://live.staticflickr.com/7819/31574171847_c984bbff4e_b.jpg",
       "sound": "https://xeno-canto.org/914069/download",
       "countries": [
         "United Kingdom",
@@ -5764,9 +5764,15 @@
       "habitat": "Forests, parks, gardens",
       "description": "The song thrush is a small to medium-sized songbird known for its melodic and repetitive song, which it often sings from high perches in woodland areas. Native to Europe, Asia, and parts of North Africa, the song thrush is easily recognizable by its warm brown upperparts and creamy, speckled underparts. This bird is a skilled forager, frequently seen hopping on the ground in search of earthworms, snails, and insects. The song thrush is celebrated in literature and poetry for its enchanting song, which includes a series of varied and rich phrases repeated two to four times. Although its population has declined in some regions due to habitat loss and changes in agricultural practices, the song thrush remains a beloved symbol of the natural world’s musicality.",
       "image": "https://base-prod.rspb-prod.magnolia-platform.com/dam/jcr:1a297c86-da45-439e-9837-9402881ba1a0/626076455-Species-song-thrush-on-branch.jpg",
-      "family": ["Turdidae"],
-      "order": ["PASSERIFORMES"],
-      "status": ["Common"],
+      "family": [
+        "Turdidae"
+      ],
+      "order": [
+        "PASSERIFORMES"
+      ],
+      "status": [
+        "Common"
+      ],
       "id": 127,
       "sound": "https://xeno-canto.org/919203/download",
       "countries": [
@@ -6187,7 +6193,12 @@
       "status": "Common",
       "image": "https://naturfotografen-forum.de/data/o/218/1092963/image.jpg",
       "sound": "https://xeno-canto.org/784283/download",
-      "countries": ["Norway", "Sweden", "Finland", "Russia"]
+      "countries": [
+        "Norway",
+        "Sweden",
+        "Finland",
+        "Russia"
+      ]
     },
     {
       "id": 142,
@@ -6200,7 +6211,10 @@
       "status": "Common",
       "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/151744/large.jpg",
       "sound": "https://xeno-canto.org/911230/download",
-      "countries": ["Spain", "Portugal"]
+      "countries": [
+        "Spain",
+        "Portugal"
+      ]
     },
     {
       "id": 143,
@@ -6235,7 +6249,9 @@
       "status": "Uncommon",
       "image": "https://live.staticflickr.com/4179/33787988724_3bbde174d4_b.jpg",
       "sound": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/545381/audio",
-      "countries": ["Russia"]
+      "countries": [
+        "Russia"
+      ]
     },
     {
       "id": 145,
@@ -6268,7 +6284,13 @@
       "status": "Common",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Pyrrhocorax-graculus-0016-a.jpg/2560px-Pyrrhocorax-graculus-0016-a.jpg",
       "sound": "https://xeno-canto.org/903713/download",
-      "countries": ["France", "Switzerland", "Austria", "Italy", "Spain"]
+      "countries": [
+        "France",
+        "Switzerland",
+        "Austria",
+        "Italy",
+        "Spain"
+      ]
     },
     {
       "id": 147,
@@ -6308,7 +6330,9 @@
       "status": "Uncommon",
       "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Brown-necked_Raven_-_Merzouga_-_Morocco_07_3411_%2822160964904%29.jpg",
       "sound": "https://xeno-canto.org/910006/download",
-      "countries": ["Spain"]
+      "countries": [
+        "Spain"
+      ]
     },
     {
       "id": 150,
@@ -6321,7 +6345,10 @@
       "status": "Invasive",
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Corvus_splendens_perched_Dhrangadhra.jpg",
       "sound": "https://xeno-canto.org/893799/download",
-      "countries": ["Spain", "Portugal"]
+      "countries": [
+        "Spain",
+        "Portugal"
+      ]
     },
     {
       "id": 151,
@@ -6332,9 +6359,15 @@
       "habitat": "Cliffs, mountainous regions",
       "description": "The Wallcreeper is a striking bird with grey plumage, crimson wings, and a distinctive butterfly-like flight. It is often found on steep rock faces where it feeds on insects and spiders. Known for its elusive behavior, the Wallcreeper is found in mountainous regions of southern Europe and Asia.",
       "status": "Uncommon",
-      "image": "https://wildlife-media.at/bild/44494/mauerlaeufer.jpg",
+      "image": "https://www.oly-forum.com/uploads/monthly_2023_12/large.mauerlufer-vj2023-PC200740-fullhd.jpg.27f939f6a08bb7db5ebac0feb5fbc073.jpg",
       "sound": "https://xeno-canto.org/573620/download",
-      "countries": ["France", "Spain", "Italy", "Switzerland", "Austria"]
+      "countries": [
+        "France",
+        "Spain",
+        "Italy",
+        "Switzerland",
+        "Austria"
+      ]
     },
     {
       "id": 152,
